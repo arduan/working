@@ -8,3 +8,4 @@ Good!
 Это первый клон.
 Hello Sveta!
 Python good!
+Hello Vitalik!
