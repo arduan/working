@@ -3,3 +3,4 @@ Hello Vitalik!
 Hello Arduan!
 Good lick!
 Это второй клон.
+Привет Виталий!
