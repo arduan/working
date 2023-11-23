@@ -10,4 +10,4 @@ Hello Sveta!
 Python good!
 Hello Vitalik!
 Print('Hello Vitalil')
-manege.py
+manage.py
