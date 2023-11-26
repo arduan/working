@@ -1,0 +1,9 @@
+#!/bin/bash
+echo Hello World!
+echo "Hello Vitalik"
+
+a=10
+b=8
+
+echo "$a + $b: $((a +b))"
+
