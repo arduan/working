@@ -5,4 +5,5 @@ def name(a):
 
 class VitalikIvanov():
     pass
+print(55)
 
